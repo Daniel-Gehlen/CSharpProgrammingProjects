@@ -1,1 +1,1 @@
-# Logica-e-Matematica-Computaciona
+# Logica-e-Matematica-Computacional

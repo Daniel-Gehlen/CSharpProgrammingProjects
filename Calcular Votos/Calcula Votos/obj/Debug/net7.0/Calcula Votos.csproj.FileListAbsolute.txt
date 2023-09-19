@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\bin\Debug\net7.0\Calcula Votos.exe
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\bin\Debug\net7.0\Calcula Votos.deps.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\bin\Debug\net7.0\Calcula Votos.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\bin\Debug\net7.0\Calcula Votos.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\bin\Debug\net7.0\Calcula Votos.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\refint\Calcula Votos.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\Calcula Votos.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Calcular Votos\Calcula Votos\obj\Debug\net7.0\ref\Calcula Votos.dll

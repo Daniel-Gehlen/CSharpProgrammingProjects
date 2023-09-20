@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\bin\Debug\net7.0\TesteDeCarga.exe
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\bin\Debug\net7.0\TesteDeCarga.deps.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\bin\Debug\net7.0\TesteDeCarga.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\bin\Debug\net7.0\TesteDeCarga.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\bin\Debug\net7.0\TesteDeCarga.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\refint\TesteDeCarga.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\TesteDeCarga.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\Teste de Sobre carga\TesteDeCarga\obj\Debug\net7.0\ref\TesteDeCarga.dll

@@ -10,9 +10,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Sistema de Verificação de Estoque/bin/Debug/net7.0/Sistema de Verificação de Estoque.dll",
+            "program": "${workspaceFolder}/S.V.E./bin/Debug/net7.0/S.V.E.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Sistema de Verificação de Estoque",
+            "cwd": "${workspaceFolder}/S.V.E.",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

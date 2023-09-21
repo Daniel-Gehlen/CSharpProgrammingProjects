@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\Sist. de Verificação de Estoque\\S.V.E\\S.V.E.csproj",
-      "projectName": "S.V.E.",
-      "projectPath": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\Sist. de Verificação de Estoque\\S.V.E.\\S.V.E.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\S.G. Produtos_Loja\\S.G.P.L\\S.G.P.L.csproj",
+      "projectName": "S.G.P.L",
+      "projectPath": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\S.G. Produtos_Loja\\S.G.P.L\\S.G.P.L.csproj",
       "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\Sist. de Verificação de Estoque\\S.V.E.\\obj\\",
+      "outputPath": "C:\\Users\\Utilizador\\Desktop\\Lógica e Matemática Computacional - Git Hub\\Logica-e-Matematica-Computacional\\S.G. Produtos_Loja\\S.G.P.L\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config"

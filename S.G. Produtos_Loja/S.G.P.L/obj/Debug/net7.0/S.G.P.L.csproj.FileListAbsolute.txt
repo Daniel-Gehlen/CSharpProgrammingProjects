@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\bin\Debug\net7.0\S.G.P.L.exe
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\bin\Debug\net7.0\S.G.P.L.deps.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\bin\Debug\net7.0\S.G.P.L.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\bin\Debug\net7.0\S.G.P.L.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\bin\Debug\net7.0\S.G.P.L.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\refint\S.G.P.L.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\S.G.P.L.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S.G. Produtos_Loja\S.G.P.L\obj\Debug\net7.0\ref\S.G.P.L.dll

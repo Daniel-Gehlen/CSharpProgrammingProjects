@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\bin\Debug\net7.0\S. de Notícias.exe
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\bin\Debug\net7.0\S. de Notícias.deps.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\bin\Debug\net7.0\S. de Notícias.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\bin\Debug\net7.0\S. de Notícias.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\bin\Debug\net7.0\S. de Notícias.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\refint\S. de Notícias.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\S. de Notícias.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de Notícias\S. de Notícias\obj\Debug\net7.0\ref\S. de Notícias.dll

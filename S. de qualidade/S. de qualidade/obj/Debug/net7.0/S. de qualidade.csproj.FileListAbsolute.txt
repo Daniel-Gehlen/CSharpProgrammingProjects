@@ -1,0 +1,17 @@
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\S. de qualidade.exe
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\S. de qualidade.deps.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\S. de qualidade.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\S. de qualidade.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\S. de qualidade.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\refint\S. de qualidade.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.pdb
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\ref\S. de qualidade.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Lógica e Matemática Computacional - Git Hub\Logica-e-Matematica-Computacional\S. de qualidade\S. de qualidade\obj\Debug\net7.0\S. de qualidade.csproj.CopyComplete

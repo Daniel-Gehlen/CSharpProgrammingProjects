@@ -1,4 +1,5 @@
-# Logica-e-Matematica-Computacional
+# CSharpProgrammingProjects
+## Logica-e-Matematica-Computacional
 
 Este repositório contém pastas onde cada uma delas contém um sistema codificado em C# que visa solucionar algum problema de sistema em uma empresa.
 
